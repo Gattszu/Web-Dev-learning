@@ -14,7 +14,7 @@ h2 {
   font-family:'Courier New', Courier, monospace;
 }
 
-pre {
+pre.paragraph {
   color: black;
   font-size: 300%;
   border: 15px dashed black;
