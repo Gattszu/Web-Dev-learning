@@ -21,6 +21,13 @@ pre {
   margin: 50px;
   padding: 10px;
 }
+.paragraph {
+  color: blue;
+  font-size: 300%;
+  border: 15px dashed black;
+  margin: 50px;
+  padding: 10px;
+}
 
 #para1 {
   color: burlywood;
