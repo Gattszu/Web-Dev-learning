@@ -4,12 +4,46 @@ body {
 }
 h1 {
   color: black;
-  font-size: 600%;
-  font-family:'Courier New', Courier, monospace
+  font-size: 800%;
+  font-family:'Courier New', Courier, monospace;
 }
+
+h2 {
+  color: black;
+  font-size: 300%;
+  font-family:'Courier New', Courier, monospace;
+}
+
 pre {
   color: black;
   font-size: 300%;
-  margin: 0;
-  padding: 0;
+  border: 15px dashed black;
+  margin: 50px;
+  padding: 10px;
+}
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+  background-color: aqua;
+  padding: 15px, 25px;
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
 }
