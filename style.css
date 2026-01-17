@@ -22,6 +22,14 @@ pre {
   padding: 10px;
 }
 
+#para1 {
+  color: burlywood;
+  font-size: 300%;
+  border: 15px dashed black;
+  margin: 50px;
+  padding: 10px;
+}
+
 a:link {
   color: green;
   background-color: transparent;
